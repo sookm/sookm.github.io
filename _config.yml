@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "turi blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hi👋 I'm turi"
+subtitle                 : "👋" # site tagline that appears below site title in masthead
+name                     : "sookm"
 description              : "An amazing website."
 url                      : "https://sookm.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
