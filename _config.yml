@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Soo Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Hi!👋 I'm turi. 투리 블로그 입니다."
+  location         : "South Korea"
+  email            : "crankyyrabbit@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
