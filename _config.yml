@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "en-US"
 title: "turi blog"
 title_separator: "|"
-subtitle: "Junior Data Analyst" # site tagline that appears below site title in masthead
+subtitle: "..." # site tagline that appears below site title in masthead
 name: "sookm"
 description: "Hi!👋 I'm turi. 투리 블로그 입니다."
 url: "https://sookm.github.io"
@@ -103,7 +103,7 @@ analytics:
 author:
   name: "Soo Kim"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Hi!👋 I'm turi. 투리 블로그 입니다."
+  bio: "Junior Data Analyst"
   location: "South Korea"
   email:
   links:
