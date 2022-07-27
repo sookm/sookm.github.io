@@ -103,7 +103,7 @@ analytics:
 author:
   name: "Soo Kim"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Junior Data Analyst"
+  bio: "Software Engineer"
   location: "South Korea"
   email:
   links:
@@ -112,10 +112,10 @@ author:
       url: "mailto:crankyyrabbit@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://velog.io/@turi"
+      url: "https://turi-zoningout.tistory.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/TuriZoningout"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -131,7 +131,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/TuriZoningout"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
